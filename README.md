@@ -1,6 +1,5 @@
 ## Hello there👋
-Just a few facts about me, my interests and projects <!--
-**Ani-0506/Ani-0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a few facts about me, my interests and projects:)
 
 ## My Scientific Arsenal:-
 a) Bioinformatics led omics data analysis for predictive modeling of data 📚
