@@ -19,6 +19,10 @@ Also like tinkering with bioprocess and microbial mutagenesis :) 🥼
 
 [Microfluidics: A solution to low-cost efficient screening](https://ani0512.bearblog.dev/microfluidics-a-potential-solution-to-low-cost-highly-efficient-screening/)
 
+## LinkedIn articles(Speculative series):
+[1. What if?: BioMerger Ep-1- The Tachyon Drift](https://www.linkedin.com/pulse/what-biomerger-ep-1-tachyon-drift-anirudh-r-cp7fc/)
+[2. What if?: BioMerger Ep 2- NeuroBioGrid: Powering GPU's with Nature's Pulse](https://www.linkedin.com/pulse/what-biomerger-ep-2-neurobiogrid-powering-gpus-natures-anirudh-r-9mglc/)
+
 ## Projects:
 CanScan: A microfluidic A Microfluidic based platform for early cancer diagnosis along with a report generating mechanism! [CanScan](https://canscan-earlydetectionsystem.tiiny.site/)
 
